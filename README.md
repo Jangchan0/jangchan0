@@ -1,4 +1,4 @@
-### Hi there 👋
+### 빙글뱅글 👋
 
 <!--
 **Jangchan0/jangchan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![핑구](https://user-images.githubusercontent.com/117936577/208370640-466f0938-3ba8-43c2-aac4-d2f93e929a4e.gif)
