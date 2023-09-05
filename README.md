@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JoyfulDeliriousBichonfrise-size_restricted](https://user-images.githubusercontent.com/117936577/208371506-5a462c1d-f7a1-4c3f-a7ef-a918e75de609.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangchan0&show_icons=true&theme=radical)
