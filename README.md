@@ -54,7 +54,7 @@ const aboutMe = {
     sex: "Male",
     birth: "14th January",
     favorite: [
-      play the piano, overwatch, , must-go restaurant, Dog ...     
+      "play the piano", "overwatch", , "must-go restaurant", "Dog" ...     
   ],
     personality: "cautious introvert",
 }
